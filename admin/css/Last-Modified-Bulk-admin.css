@@ -1,0 +1,15 @@
+#modified-date-form input[type="text"] {
+    height: 28px;
+}
+#set_modified_date_btn {
+    position: relative;
+    left: 5px;
+    top: -5px;
+}
+
+@media screen and (max-width: 782px) {
+    #modified-date-form input[type="text"] {
+        padding: 6px 10px;
+        height: 36px;
+    }
+}
